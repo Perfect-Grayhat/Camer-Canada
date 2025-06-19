@@ -1,9 +1,5 @@
 # Camer-Canada
-collaboration à distance entre Eric et Christian
+### Programmation python.
 
-Eric modifie ce fichier .read me en inscrivant un message de confirmation !
-
-
-Je confirme avoir recu l'invitation. 
-Laisse des commentaires sur les parties que tu as modifié.
-
+**programme d'affichage de la date apres 90 jours**  
+ (*Eric donne le plan d'action*)
